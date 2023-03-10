@@ -1,0 +1,103 @@
+.header{
+    background-color: #1c1b1b
+}
+
+.logo_title{
+color: #9c0202;
+text-align: center;
+font-family: system-ui;
+}
+
+ul { list-style-type: none;  
+    padding-left: 920px;
+    }
+    
+li {
+    display: inline; /* Отображать как строчный элемент */
+    margin: 10px; /* Отступ слева */ 
+    font-family: system-ui;
+    }
+    
+a {
+    color:aliceblue;
+    text-decoration: none;
+}
+
+.artist {
+    border-radius: 150px; /* Радиус скругления */
+    width: 130px; 
+    height: 130px;
+}
+
+.hot_music__container {
+    text-align: center;
+    font-family: system-ui;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 50px;
+}
+
+.music {
+    display:inline-block;
+   margin-right: 25px;
+   margin-bottom: 25px;
+}
+
+.popular_tracks__container {
+    text-align: center;
+    font-family: system-ui;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 50px;
+}
+
+.track {
+    display:inline-block;
+    margin-right: 100px; 
+    margin-left: 100px;
+    margin-bottom: 10px;
+}
+
+.album {
+    width: 50px; 
+    height: 50px;
+    align-content: left;
+}
+
+h3{
+    text-align: left;
+}
+
+p{
+    text-align: left;
+    font-size:small;
+}
+
+
+h1 {
+text-align: center;
+font-family: system-ui;
+font-size: 40px;
+}
+
+h2 {
+text-align: center;
+font-family: system-ui;
+font-size: 20px;
+}
+
+hr {
+margin: 18px 0 18px 0;
+height: 3px;
+background: #e05b5b;
+border-radius: 10px;
+left: 65%;
+width: 5%;
+margin-left: auto; margin-right: auto;
+margin-bottom: 50px; /*Отступ снизу*/
+}
+
+footer {
+background: #1c1b1b
+}
+
